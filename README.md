@@ -1,3 +1,9 @@
 # python_tutorial
-Python Tutorial
+### Python Tutorial
+
 Hello World!
+
+My name is PJ
+
+- Tunghai University
+- Global MBA
