@@ -15,6 +15,7 @@ def my_sd(input):
 
 input = [20,23,18]
 Answer = my_sd(input)
+Answer = round(Answer, 3)
 print(f'Answer: {Answer}')
 
 
